@@ -1,0 +1,2 @@
+# CollectMinigame
+simple game
