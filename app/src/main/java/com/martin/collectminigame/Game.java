@@ -1,4 +1,4 @@
-package com.chalandriani.collectminigame;
+package com.martin.collectminigame;
 
 import android.app.Activity;
 import android.os.Bundle;

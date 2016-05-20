@@ -1,4 +1,4 @@
-package com.chalandriani.collectminigame;
+package com.martin.collectminigame;
 
 import android.content.Context;
 import android.graphics.BitmapFactory;

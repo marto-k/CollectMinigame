@@ -1,4 +1,4 @@
-package com.chalandriani.collectminigame;
+package com.martin.collectminigame;
 
 import org.junit.Test;
 
